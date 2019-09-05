@@ -73,24 +73,23 @@ color: #fff;
   text-align: center;
   background-image: asset-url('photoimage.jpg');
   background-size: cover;
-   color: #5bc0de;
+  color: #fff;
   font-family: 'Helvetica Neue' !important;
   font-weight: bold;
-  font-stretch: expanded;
+  //font-stretch: expanded;
   padding-top: 25px;
   padding-bottom: 25px;
   margin-left: 15px;
   margin-right: 15px;
-  //text-shadow: -1px 0 #555, 0 1px #555, -1px 0 #555, 0 -1px #555;
-  text-shadow:
-    -1px -1px 0 #000000,
-    1px -1px 0 #000000,
-    -1px 1px 0 #000000,
-    1px 1px 0 #000000,
-    -2px 0 0 #000000,
-    2px 0 0 #000000,
-    0 2px 0 #000000,
-    0 -2px 0 #000000;
+  // text-shadow:
+  //   -1px -1px 0 #5bc0de,
+  //   1px -1px 0 #5bc0de,
+  //   -1px 1px 0 #5bc0de,
+  //   1px 1px 0 #5bc0de,
+  //   -2px 0 0 #5bc0de,
+  //   2px 0 0 #5bc0de,
+  //   0 2px 0 #5bc0de,
+  //   0 -2px 0 #5bc0de;
 }
 
 .no-left-padding {
